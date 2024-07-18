@@ -8,7 +8,7 @@
 
 </Property>
 	<Item Name="Friends List" Type="Friends List">
-		<Item Name="User Interface Control.lvlib" Type="Friended Library" URL="../../../../Tester/Modules/UI/User Interface Control.lvlib"/>
+		<Item Name="User Interface Control.lvlib" Type="Friended Library" URL="../../../../Tester-8880/Modules/UI/User Interface Control.lvlib"/>
 	</Item>
 	<Item Name="Manage Notifiers" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
