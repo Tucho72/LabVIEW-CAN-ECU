@@ -23,4 +23,5 @@
 	<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi"/>
 	<Item Name="Manage FPGA Reference.vi" Type="VI" URL="../Manage FPGA Reference.vi"/>
 	<Item Name="Send Data to FPGA.vi" Type="VI" URL="../Send Data to FPGA.vi"/>
+	<Item Name="Shutdown FPGA Signals.vi" Type="VI" URL="../Shutdown FPGA Signals.vi"/>
 </Library>
